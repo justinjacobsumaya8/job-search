@@ -4,7 +4,20 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "second-tutorial",
-    "slug": "second-tutorial"
+    "name": "job-search",
+    "slug": "job-search",
+    "extra": {
+      "eas": {
+        "projectId": "aa066524-811f-402e-b9af-e91aa23b3744"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/aa066524-811f-402e-b9af-e91aa23b3744"
+    },
+    "android": {},
+    "ios": {}
   }
 }
